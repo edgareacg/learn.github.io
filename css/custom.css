@@ -1,0 +1,9 @@
+/* Custom CSS file (e.g., custom.css) */
+.navbar-custom {
+    background-color: #FCE4EC !important; /* Custom background color */
+  }
+  
+  .navbar-custom .navbar-brand,
+  .navbar-custom .navbar-nav .nav-link {
+    color: #fff !important; /* Custom text color for brand and links */
+  }
